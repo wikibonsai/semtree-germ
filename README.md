@@ -3,7 +3,7 @@
 [![A WikiBonsai Project](https://img.shields.io/badge/%F0%9F%8E%8B-A%20WikiBonsai%20Project-brightgreen)](https://github.com/wikibonsai/wikibonsai)
 
 <p align="center">
-  <img src="./demo.png" height="50%" width="50%">
+  <img src="./demo/machine-learning.png" height="50%" width="50%">
 </p>
 
 You can see it [here](https://semantic-tree.netlify.app/).
