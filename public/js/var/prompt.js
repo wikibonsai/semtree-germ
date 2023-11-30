@@ -1,3 +1,5 @@
+// see: https://github.com/wikibonsai/prompt
+
 const SYSTEM_PROMPT = 
 `
 DEFINE::SEMANTIC TREE:
