@@ -6,7 +6,7 @@
   <img src="./demo.png" height="50%" width="50%">
 </p>
 
-You can see it [here](grow.netlify.app).
+You can see it [here](https://semantic-tree.netlify.app/).
 
 🪴 Transplant pre-existing knowledge trees to your 🎋 [WikiBonsai](https://github.com/wikibonsai/wikibonsai) digital garden.
 
