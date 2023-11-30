@@ -1,6 +1,7 @@
 const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const storedIsDark = localStorage.getItem('is-dark');
 
-var isDark = (localStorage.getItem('is-dark') === 'true') || prefersDarkScheme;
+var isDark = (storedIsDark !== null) ? (storedIsDark === 'true') : prefersDarkScheme;
 var isMarkdown = localStorage.getItem('is-markdown') === 'true';
 
 var indentKind = localStorage.getItem('indent') ? localStorage.getItem('indent') : '2 spaces';
