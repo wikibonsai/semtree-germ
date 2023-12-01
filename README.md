@@ -17,7 +17,7 @@ Have an LLM (ChatGPT) generate a semantic (sub) tree from a given word or concep
 - If you're a student, these trees can give you your bearings in relation to other, more familiar concepts. It can also point to other new, relevant concepts one needs to understand to better understand the original concept.
 - If you're a teacher, these trees can save time drafting texts or curricula to someone new to the concept.
 
-Results should be returned as raw text formatted in markdown outlines, with [`[[wiki-text]]`](https://github.com/wikibonsai/wikirefs) among other options, which should be note-taking friendly and is also viewable as an interactive mindmap.
+Results are viewable as an interactive mindmap and should be returned as raw text formatted in markdown outlines, which should be compliant with [semtree](https://github.com/wikibonsai/semtree), [`[[wiki-text]]`](https://github.com/wikibonsai/wikirefs) among other options. This makes the resulting markdown more note-taking friendly.
 
 ## Note On Design
 
