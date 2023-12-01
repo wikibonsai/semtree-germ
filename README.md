@@ -6,7 +6,7 @@
   <img src="./demo/machine-learning.png" height="50%" width="50%">
 </p>
 
-You can see it [here](https://semantic-tree.netlify.app/).
+You can use it [here](https://semantic-tree.netlify.app/).
 
 🪴 Transplant pre-existing knowledge trees to your 🎋 [WikiBonsai](https://github.com/wikibonsai/wikibonsai) digital garden.
 
